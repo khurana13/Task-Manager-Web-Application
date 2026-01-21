@@ -43,6 +43,20 @@ task-manager/
 ├── package.json
 ├── README.md
 └── .gitignore
+task-manager/
+│
+├── files/          # Stores task text files
+├── views/          # EJS templates
+│   ├── index.ejs
+│   ├── show.ejs
+│   └── edit.ejs
+│
+├── public/         # Static files (optional)
+├── index.js        # Main server file
+├── package.json
+├── README.md
+└── .gitignore
+
 
 
 
