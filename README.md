@@ -32,17 +32,18 @@ This project was created to practice backend development concepts and server-sid
 
 task-manager/
 │
-├── files/ # Stores task text files
-├── views/ # EJS templates
-│ ├── index.ejs
-│ ├── show.ejs
-│ └── edit.ejs
+├── files/          # Stores task text files
+├── views/          # EJS templates
+│   ├── index.ejs
+│   ├── show.ejs
+│   └── edit.ejs
 │
-├── public/ # Static files (optional)
-├── index.js # Main server file
+├── public/         # Static files (optional)
+├── index.js        # Main server file
 ├── package.json
 ├── README.md
 └── .gitignore
+
 
 
 ---
