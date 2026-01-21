@@ -30,7 +30,7 @@ This project was created to practice backend development concepts and server-sid
 
 ## Project Structure
 
-
+```
 task-manager/
 │
 ├── files/          # Stores task text files
@@ -44,6 +44,8 @@ task-manager/
 ├── package.json
 ├── README.md
 └── .gitignore
+```
+
 
 
 
