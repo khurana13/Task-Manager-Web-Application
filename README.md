@@ -44,39 +44,6 @@ task-manager/
 ├── README.md
 └── .gitignore
 
-yaml
-Copy code
 
 ---
 
-## How to Run the Project
-
-1. Clone the repository  
-
-2. Install dependencies  
-   ```bash
-   npm install
-Start the server
-
-bash
-Copy code
-npm start
-Open your browser and visit
-
-arduino
-Copy code
-http://localhost:3000
-Learning Outcome
-Understanding Express routing
-
-Working with EJS templates
-
-Handling files using Node.js
-
-Passing data from backend to frontend
-
-Structuring a basic Node.js project
-
-Author
-Sneha Khurana
-B.Tech Student | Learning Full Stack DevelopmentDevelopment
